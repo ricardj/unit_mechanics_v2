@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/developing_stick_tares.unity
+  isLoaded: 1
+  isActive: 1
